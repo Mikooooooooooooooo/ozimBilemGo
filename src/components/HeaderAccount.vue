@@ -2,7 +2,7 @@
     <div class="account-container">
         <div class="user">
             <p class="name">Sth Sth</p>
-            <p class="tag">Admin</p>
+            <p class="user__tag">Admin</p>
         </div>
         <img src="../assets/user.png" alt="">
     </div>
@@ -21,7 +21,7 @@
         padding-bottom: 5px;
         font-size: 10px;
     }
-    .tag{
+    .user__tag{
         font-weight: 200;
         font-size: 12px;
     }

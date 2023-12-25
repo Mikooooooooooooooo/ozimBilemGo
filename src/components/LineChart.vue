@@ -340,7 +340,7 @@ export default {
     color: navy;
   }
   .line-chart {
-    display: inline-block;
+    /* display: inline-block; */
     margin: 20px 20px 0 ;
   }
 
@@ -360,7 +360,7 @@ export default {
     position: relative ; 
     top: -30px ;
     margin-left: 20px; 
-    gap: 60px; 
+    gap: 10.5%; 
     display: flex ;
   }
 

@@ -20,7 +20,7 @@
             <div class="upgradebutton__description">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, ut!
             </div>
-            <Button title="Upgrade"></Button>
+            <Button title="Upgrade" ></Button>
         </div>  
     </div>
 </template>
@@ -56,7 +56,7 @@
         position: absolute; 
         background: rgba(255, 127, 80, 0.3) ; 
         right: 19% ; 
-        top: 19% ; 
+        top: 18% ; 
         border-radius: 50% ; 
     }
     .upgradebutton__circle{

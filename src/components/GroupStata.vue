@@ -10,10 +10,10 @@
         data() { 
             return { 
                 stats: [
-                    {count: '932' , title: 'Project' , source: 'Item 1.png'} , 
-                    {count: '1,032' , title: 'Inquires' , source: 'Item 1.png'} , 
-                    {count: '102k' , title: 'Invesment' , source: 'Item 1.png'} , 
-                    {count: '32k' , title: 'Assets' , source: 'Item 1.png'} , 
+                    {count: '932' , title: 'Project' , source: 'icon1.svg'} , 
+                    {count: '1,032' , title: 'Inquires' , source: 'icon2.svg'} , 
+                    {count: '102k' , title: 'Invesment' , source: 'icon3.svg'} , 
+                    {count: '32k' , title: 'Assets' , source: 'icon4.svg'} , 
                 ]
             }
         } , 

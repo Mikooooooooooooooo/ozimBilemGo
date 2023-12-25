@@ -1,7 +1,7 @@
 <template> 
     <div class="change__period">
-        <div class="change__period-top">
-            <img src="../assets/Item 1.png" alt="" class="change__period-icon">
+        <div class="change__period-top"  @click="show = !show">
+            <img src="../assets/calendar.svg" alt="" class="change__period-icon">
             <div class="change__period-text">
                 <div class="change__period-title">
                     Change Periode
@@ -10,7 +10,7 @@
                     {{date}}
                 </div>
             </div>
-            <img src="../assets/down.png" alt="" class="change__period-button" @click="show = !show">
+            <img src="../assets/down.png" alt="" class="change__period-button">
         </div>
         <div v-if="show" class="change__period-bottom">
             <div class="slidecontainer">
@@ -48,6 +48,7 @@
     .change__period-top{
         display: flex ; 
         position: relative ; 
+        cursor: pointer ;
     }
     .change__period-icon{
         height: 25px ; 
@@ -74,7 +75,6 @@
         width: 20px ; 
         height: 20px ; 
         margin-top: 10px; 
-        cursor: pointer ;
     }
     .change__period-bottom{
         width: 100% ; 

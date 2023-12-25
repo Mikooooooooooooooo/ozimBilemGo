@@ -37,7 +37,7 @@
         height: 100px;
         display: flex;
         justify-content: space-between;
-        margin: 0 2% ;
+        background: white ; 
         align-items: center;
     }
     .left-side{

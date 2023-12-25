@@ -1,12 +1,12 @@
 <template>
-    <div class="button">
+    <div class="button" :style="{ padding: `${parseInt(padding / 2.66)}px ${padding}px` }" >
         {{ title }}
     </div>
 </template>
 
 <script>
     export default{
-        props: ['title']
+        props: ['title' , 'padding']
     }
 </script>
 

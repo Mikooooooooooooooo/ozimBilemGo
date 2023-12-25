@@ -29,7 +29,7 @@
     display: flex;
     flex-direction: row;
     gap: 10%;
-    align-items: flex-end; /* Align items to the bottom */
+    align-items: flex-end; 
   }
   
   .graphItem-l {

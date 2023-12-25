@@ -15,15 +15,15 @@
             return{
                 elements: [
                     {itemName: 'Dashboard', imageName: 'Item 1.png'},
-                    {itemName: 'Email', imageName: 'Item 1.png'},
-                    {itemName: 'Crypto', imageName: 'Item 1.png'},
-                    {itemName: 'Kanban', imageName: 'Item 1.png'},
-                    {itemName: 'Invoicing', imageName: 'Item 1.png'},
-                    {itemName: 'Banking', imageName: 'Item 1.png'},
-                    {itemName: 'File Manager', imageName: 'Item 1.png'},
-                    {itemName: 'User', imageName: 'Item 1.png'},
-                    {itemName: 'Calendar', imageName: 'Item 1.png'},
-                    {itemName: 'Todo List', imageName: 'Item 1.png'},
+                    {itemName: 'Email', imageName: 'Item 2.svg'},
+                    {itemName: 'Crypto', imageName: 'Item 3.svg'},
+                    {itemName: 'Kanban', imageName: 'Item 4.svg'},
+                    {itemName: 'Invoicing', imageName: 'Item 5.svg'},
+                    {itemName: 'Banking', imageName: 'Item 6.svg'},
+                    {itemName: 'File Manager', imageName: 'Item 7.svg'},
+                    {itemName: 'User', imageName: 'Item 8.svg'},
+                    {itemName: 'Calendar', imageName: 'Item 9.svg'},
+                    {itemName: 'Todo List', imageName: 'Item 10.svg'},
                 ]
             };
         }
